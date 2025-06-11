@@ -1,0 +1,3 @@
+and how your applications are deployed to those environments in a simple graphical editor. You connect to clouds, model the virtual images in the environment, and add your application components to those images.
+Track What is Where: Inventory: The inventory system tracks the desired state of each environment, as well as what has been successfully deployed and provides graphical alerts when an environment is out of compliance with that desired state.
+Scalable Distributed Automation: It is built to support mission-critical deployments to thousands of servers in numerous data centers. Master server clustering support provides high availability and horizontal scalability of the deployment automation tool.
